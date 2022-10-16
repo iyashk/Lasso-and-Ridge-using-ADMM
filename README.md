@@ -1,7 +1,7 @@
 # iyashk-Lasso-and-Ridge-using-ADMM
 Analyzing LASSO and Ridge regressions using ADMM and Gradient Descent methods. Also the ADMM model is compared with that of Sci-Kit Learn's existing model. 
 
-**Augmented Lagrangian form for the ADMM:**
+**Augmented LaGrange form for ADMM:**
 $$L_p(x,z,u) = f(x) + g(z) + \mu^{T}(Ax+bz-c) + (\rho/2) ||Ax+Bz-c||^{2}_2$$
 
 ## Dataset:
