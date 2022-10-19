@@ -5,7 +5,7 @@ Analyzing LASSO and Ridge regressions using ADMM and Gradient Descent methods. A
 $$L_p(x,z,u) = f(x) + g(z) + \mu^{T}(Ax+bz-c) + (\rho/2) ||Ax+Bz-c||^{2}_2$$
 
 ## Dataset:
-# Dataset: As input for our model, we used the diabetes dataset gathered from the  [**Medical City Hospital**](https://data.mendeley.com/datasets/wj9rwkp9c2/1) in Baghdad. Dataset size 1000x14 contains 14 features Several data manipulation techniques have been applied on the dataset we converted the categorical features into numeric values and we dropped the  features that do not contribute to the blood sugar level. Therefore, our final dataset contains 12 features.
+As input for our model, we used the diabetes dataset gathered from the  [**Medical City Hospital**](https://data.mendeley.com/datasets/wj9rwkp9c2/1) in Baghdad. Dataset size 1000x14 contains 14 features Several data manipulation techniques have been applied on the dataset we converted the categorical features into numeric values and we dropped the  features that do not contribute to the blood sugar level. Therefore, our final dataset contains 12 features.
 
 ### Attributes: 
 Patient number, ID, Age, Gender, Creatinine ratio (Cr), Body mass index (BMI), Urea, Cholesterol (Chol), as well as fasting lipid profile, including total cholesterol, triglycerides(TG) and HDL , LDL , VLDL cholesterol, and Diabetic/Predictive Diabetes or Non-Diabetic Diabetes Class .
