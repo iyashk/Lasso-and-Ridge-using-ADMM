@@ -18,9 +18,9 @@ Patient number, ID, Age, Gender, Creatinine ratio (Cr), Body mass index (BMI), U
 | Ridge using Scikit-Learn |  2.2480 | 1.8340 | 0.0673 | 0.01186 s |
 | Ridge using ADMM |  2.2249 | 1.7889 | 0.0947 | 0.00177 s |
 
-## contributers
-[![portfolio](https://img.shields.io/badge/Yashwanth_Kiran-800?style=for-the-badge)](https://github.com/iyashk)<br>
+## Contributers
+[![portfolio](https://img.shields.io/badge/Yashwanth_Kiran-1e90ff?style=for-the-badge)](https://github.com/iyashk)<br>
 [![portfolio](https://img.shields.io/badge/Koganti_Sri_Sai_Harshith-072F5F?style=for-the-badge)](https://github.com/kssh18)<br>
-[![portfolio](https://img.shields.io/badge/Likhit_Kalla-E23?style=for-the-badge&logo=Codepen)](https://github.com/likhitkalla)<br>
-[![portfolio](https://img.shields.io/badge/Sreepriya_S-F08080?style=for-the-badge&logo=Flathub)](https://github.com/SREEPRIYA-S)<br>
-[![portfolio](https://img.shields.io/badge/E_Annapoorna-000?style=for-the-badge&logo=Codereview)](https://github.com/annuss5)<br>
+[![portfolio](https://img.shields.io/badge/Likhit_Kalla-E23?style=for-the-badge)](https://github.com/likhitkalla)<br>
+[![portfolio](https://img.shields.io/badge/Abhishek_Sai-F08080?style=for-the-badge)](https://github.com/Abhishek-Sai-14)<br>
+[![portfolio](https://img.shields.io/badge/Perumula_Raghavendra-000?style=for-the-badge)](https://github.com)<br>
