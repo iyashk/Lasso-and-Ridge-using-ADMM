@@ -23,4 +23,4 @@ Patient number, ID, Age, Gender, Creatinine ratio (Cr), Body mass index (BMI), U
 [![portfolio](https://img.shields.io/badge/Koganti_Sri_Sai_Harshith-072F5F?style=for-the-badge)](https://github.com/kssh18)<br>
 [![portfolio](https://img.shields.io/badge/Likhit_Kalla-E23?style=for-the-badge)](https://github.com/likhitkalla)<br>
 [![portfolio](https://img.shields.io/badge/Abhishek_Sai-F08080?style=for-the-badge)](https://github.com/Abhishek-Sai-14)<br>
-[![portfolio](https://img.shields.io/badge/Perumula_Raghavendra-000?style=for-the-badge)](https://github.com)<br>
+[![portfolio](https://img.shields.io/badge/Perumalla_Raghavendra-000?style=for-the-badge)](https://github.com)<br>
